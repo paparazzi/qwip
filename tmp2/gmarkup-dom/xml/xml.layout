@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="gmarkup-dom.c" open="1" top="1" tabpos="2">
+		<Cursor position="7271" topLine="127" />
+	</File>
+	<File name="gmarkup-dom.h" open="1" top="0" tabpos="3">
+		<Cursor position="2110" topLine="21" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="404" topLine="0" />
+	</File>
+	<File name="test.xml" open="1" top="0" tabpos="4">
+		<Cursor position="209" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

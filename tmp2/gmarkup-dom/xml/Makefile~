@@ -1,0 +1,5 @@
+CFLAGS = $(CFLAGS) `pkg-config glib-2.0 --cflags`
+LDFLAGS = `pkg-config glib-2.0 --libs` `pcre-config --libs` -lglibivy -lm
+
+test_xml: main.c gmarkup-dom.c
+	gcc $(CFLAGS) $^ -o $@ 
